@@ -6,6 +6,6 @@ Electrical & Computer Engineering student interested in machine learning, deep l
 
 **Technologies:** Python · NumPy · pandas · scikit-learn
 
-**Currently:** Exploring ML research and paper reproduction.
+**Currently:** Reproducing Belkin et al. (2019) on double descent.
 
 [LinkedIn](https://www.linkedin.com/in/hemangjindal/) · [GitHub](https://github.com/Hemang-Jindall)
