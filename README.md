@@ -8,4 +8,4 @@ Electrical & Computer Engineering student interested in machine learning, deep l
 
 **Currently:** Exploring ML research and paper reproduction.
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hemangjindal/)) · [GitHub](https://github.com/Hemang-Jindall)
+[LinkedIn](https://www.linkedin.com/in/hemangjindal/) · [GitHub](https://github.com/Hemang-Jindall)
